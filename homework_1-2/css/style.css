@@ -1,0 +1,67 @@
+body {
+  background-color: #DEDEDE
+}
+.wrapper {
+  width: 500px;
+  margin: 0 auto;
+  -webkit-box-shadow: 0px 0px 1px 1px rgba(156,148,156,1);
+  -moz-box-shadow: 0px 0px 1px 1px rgba(156,148,156,1);
+  box-shadow: 0px 0px 1px 1px rgba(156,148,156,1);
+  padding: 30px 65px 70px 65px;
+  background-color: white;
+}
+h2 {
+  text-align: center;
+}
+p {
+  line-height: 15px;
+}
+a {
+  line-height: 8px;
+}
+.photo {
+  text-align: center;
+}
+.work{
+  width: 450px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid black;
+  font-family: sans-serif;
+  font-size: 18px;
+  padding-left: 30px;
+}
+.frontend {
+  width: 450px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid black;
+  padding-top: 15px;
+  font-family: sans-serif;
+  font-size: 18px;
+  padding-left: 30px;
+}
+.contacts {
+  width: 450px;
+  margin-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  font-family: sans-serif;
+  font-size: 18px;
+  padding-left: 30px;
+}
+.profile {
+  width: 450px;
+  margin-bottom: 15px;
+  padding-bottom: 25px;
+  border-bottom: 1px solid black;
+  font-family: sans-serif;
+  font-size: 18px;
+  padding-left: 30px;
+}
+.feedback {
+  width: 450px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: sans-serif;
+  font-size: 18px;
+  padding-left: 30px;
+}
