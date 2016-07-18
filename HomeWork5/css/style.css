@@ -148,6 +148,7 @@ a, a:hover, a:focus, a:visited {
     /*margin-top: 36px;*/
     background-image: url(../img/fb.png);
     /*background-color: red;*/
+    line-height: 35px;
 }
 
 .spanbold1 {
