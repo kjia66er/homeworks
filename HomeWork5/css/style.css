@@ -150,6 +150,24 @@ a, a:hover, a:focus, a:visited {
     /*background-color: red;*/
 }
 
+.spanbold1 {
+    color: white;
+    font-weight: bold;
+    font-size: 12pt;
+    padding-left: 71px;
+}
+
+.spannobold {
+     color: white;
+     font-size: 12pt;
+}
+
+.spanbold2 {
+     color: white;
+     font-weight: bold;
+     font-size: 12pt;
+}
+
 .divider {
     width: 276px;
     margin: 30px auto 24px;
